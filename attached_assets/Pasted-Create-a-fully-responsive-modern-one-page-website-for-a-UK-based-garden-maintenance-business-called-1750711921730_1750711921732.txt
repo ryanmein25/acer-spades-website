@@ -1,0 +1,82 @@
+Create a fully responsive, modern one-page website for a UK-based garden maintenance business called “Acer Spades Gardening”. Use the best-fit technology stack and structure the content clearly for both mobile and desktop devices.
+
+Sections & Requirements:
+Hero Section
+
+Business name: Acer Spades Gardening
+
+Background image of a beautiful, natural garden.
+
+Call-to-action button: “Call Now” — link it to the business phone number.
+
+About Section
+
+Short paragraph about the business:
+
+"Acer Spades Gardening provides professional garden maintenance and landscaping services across Ross-on-Wye, Herefordshire, Gloucestershire, and Monmouth. Known for our reliability, attention to detail, and quality workmanship, we help transform and maintain outdoor spaces with care."
+
+Core values displayed: Professional Services, Reliability, Attention to Detail
+
+Services Section
+
+List the following services with icons or relevant images:
+
+Garden Clearance
+
+Hedge Trimming
+
+Landscaping
+
+Lawn Care
+
+Sleeper Installation
+
+Fencing
+
+Tree Pruning
+
+Wild Flower Meadows
+
+Testimonials Section
+
+Pull 2–3 authentic customer reviews from this Facebook reviews page:
+https://www.facebook.com/NickHarrisGardening/reviews
+
+Display with client names and star ratings if available.
+
+Contact Section
+
+Simple quote request form with the following fields:
+
+Name
+
+Email
+
+Phone
+
+Message
+
+Prominently display the business phone number as primary contact.
+
+Embed Google Maps centered on Ross-on-Wye to show the service area.
+
+Sticky Navigation Bar
+
+Smooth scroll behavior to each section.
+
+Footer
+
+Basic copyright line.
+
+Social media icons with links (e.g. Facebook).
+
+Design Preferences:
+Clean and modern layout.
+
+Use natural colors like green, dark brown, and cream.
+
+If a logo is needed, use a placeholder or describe it as: “Ace of Spades card with tree roots extending from the base.”
+
+Include light scroll animations for visual polish.
+
+Make all content inline and editable. The site should be deployment-ready as a single-page layout.
